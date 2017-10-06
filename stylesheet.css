@@ -1,0 +1,61 @@
+body{
+    background-color: #69c408;
+}
+
+#main{
+    height: 430px;
+    background-color: #dc143c;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#info{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.output{
+    background-color: white;
+    box-shadow: 0px 1px 1px #000;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    overflow: scroll;
+
+}
+
+ul{
+    list-style: none;
+}
+
+
+div{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    float: center;
+}
+
+input[type=text]{
+    width: 50%; 
+    border-radius: 4px; 
+    display: inline-block;
+}
+
+label{
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+input{
+    width: 65%;
+    margin-left: 10px;
+    float: left;
+}
+
